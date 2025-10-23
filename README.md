@@ -12,27 +12,29 @@ I completed my PhD in Electrical and Computer Engineering at the [Technical Univ
 
 Jha, S., & **Ehrlich, S. K.** (2025). Lightweight Structured Multimodal Reasoning for Clinical Scene Understanding in Robotics. *arXiv preprint arXiv:2509.22014*. [DOI](https://arxiv.org/abs/2509.22014) [PDF](/resources/2025_SceneUnderstanding.pdf)
 
-Agres, K. R., Dash, A., Chua, P., & **Ehrlich, S. K.** (2025). AffectMachine-Pop: A controllable expert system for real-time pop music generation. *arXiv preprint arXiv:2506.08200. AAAI workshop on AI for Music, 39th Annual AAAI conference on Artificial Intelligence 2025.* [DOI]() | [PDF](/resources/2025_AAAI_AI_for_Music.pdf)
+Agres, K. R., Dash, A., Chua, P., & **Ehrlich, S. K.** (2025). AffectMachine-Pop: A controllable expert system for real-time pop music generation. *arXiv preprint arXiv:2506.08200. AAAI workshop on AI for Music, 39th Annual AAAI conference on Artificial Intelligence 2025.* [DOI]() [PDF](/resources/2025_AAAI_AI_for_Music.pdf)
 
-Petit, J., **Ehrlich, S. K.**, Tougas, G., Bernstein, J. M., Buie, N. E., & Simonyan, K. (2025). Impact of Audio‐Visual Complexity on Symptomatology of Laryngeal Dystonia: A Virtual Reality Study. *The Laryngoscope, 135(2), 787-793.* [DOI]() | [PDF](/resources/2024_vr_bci.pdf)
+Petit, J., **Ehrlich, S. K.**, Tougas, G., Bernstein, J. M., Buie, N. E., & Simonyan, K. (2025). Impact of Audio‐Visual Complexity on Symptomatology of Laryngeal Dystonia: A Virtual Reality Study. *The Laryngoscope, 135(2), 787-793.* [DOI]() [PDF](/resources/2024_vr_bci.pdf)
 
-Heathon, S., Yun J H, **Ehrlich, S. K.** (2024). Predicting the Performance of Human-Agent Collaboration: Insights from Uncertainty Reduction Theory, Dynamic Capabilities Perspectives, and Human Brains. *The Wharton School Research Paper. Available at SSRN.* [DOI]() | [PDF](/resources/2024_HRI_ssrn.pdf)
+Heathon, S., Yun J H, **Ehrlich, S. K.** (2024). Predicting the Performance of Human-Agent Collaboration: Insights from Uncertainty Reduction Theory, Dynamic Capabilities Perspectives, and Human Brains. *The Wharton School Research Paper. Available at SSRN.* [DOI]() [PDF](/resources/2024_HRI_ssrn.pdf)
 
-Waldmannstetter, D., Ezhov, I., Wiestler, B., Campi, F., Kukuljan, I., **Ehrlich, S. K.**, Vinayahalingam, S., Baheti, B., Chakrabarty, S., Baid, U., Bakas, S., Schwarting, J., Metz, M., Kirschke, J. S., Rueckert, D., Heckemann, R. A., Piraud, M., Menze, B. H., Kofler, F. (2024). Framing image registration as a landmark detection problem for label-noise aware task representation (HitR). *arXiv preprint arXiv:2308.01318.* [DOI]() | [PDF](/resources/2024_hitR.pdf)
+Waldmannstetter, D., Ezhov, I., Wiestler, B., Campi, F., Kukuljan, I., **Ehrlich, S. K.**, Vinayahalingam, S., Baheti, B., Chakrabarty, S., Baid, U., Bakas, S., Schwarting, J., Metz, M., Kirschke, J. S., Rueckert, D., Heckemann, R. A., Piraud, M., Menze, B. H., Kofler, F. (2024). Framing image registration as a landmark detection problem for label-noise aware task representation (HitR). *arXiv preprint arXiv:2308.01318.* [DOI]() [PDF](/resources/2024_hitR.pdf)
 
-**Ehrlich, S. K.***, Roy, S.* & Lampe, R. (2024). Somatosensory Mismatch Response in Patients with Cerebral Palsy. *Applied Sciences, 14(3), 1030.* *) shared first authorship. [DOI]() | [PDF]()
+**Ehrlich, S. K.***, Roy, S.* & Lampe, R. (2024). Somatosensory Mismatch Response in Patients with Cerebral Palsy. *Applied Sciences, 14(3), 1030.* *) shared first authorship. [DOI]() [PDF](/resources/2024_sensory_cp.pdf)
 
-Kofler, F., Möller, H., Buchner, J., De la Rosa, E., Ezhof, I., Rosier, M., Mekki, I., Shit, S., Negwer, M., Al-Maskari, R., Ertürk, A., Vinayahalingam, S., Isensee, F., Pati, S., Rueckert, D., **Ehrlich, S. K.**, Kirschke, J. S., Reinke, A., Menze, B., Wiestler, B., Piraus., M. (2023). Panoptica – Instance-wise evaluation of 3D semantic and instance segmentation maps. *arXiv preprint arXiv:2312.02608.* [DOI]() | [PDF]()
+Kofler, F., Meissen, F., Steinbauer, F., Graf, R., **Ehrlich, S. K.**, Reinke, A., ... & Menze, B. H. (2024). The brain tumor segmentation (brats) challenge: Local synthesis of healthy brain tissue via inpainting. *arXiv preprint arXiv:2305.08992.* [DOI]() | [PDF](/resources/2024_brats)
 
-**Ehrlich, S. K.**, Battistella, G., & Simonyan, K. (2023). Temporal Signature of Task‐Specificity in Isolated Focal Laryngeal Dystonia. *Movement Disorders, 38(10), 1925-1935.* [DOI]() | [PDF]()
+Kofler, F., Möller, H., Buchner, J., De la Rosa, E., Ezhof, I., Rosier, M., Mekki, I., Shit, S., Negwer, M., Al-Maskari, R., Ertürk, A., Vinayahalingam, S., Isensee, F., Pati, S., Rueckert, D., **Ehrlich, S. K.**, Kirschke, J. S., Reinke, A., Menze, B., Wiestler, B., Piraus., M. (2023). Panoptica – Instance-wise evaluation of 3D semantic and instance segmentation maps. *arXiv preprint arXiv:2312.02608.* [DOI]() [PDF](/resources/2024_panoptica.pdf)
 
-**Ehrlich, S. K.**, Dean-Leon, E., Tacca, N., Armleder, S., Dimova-Edeleva, V., & Cheng, G. (2023). Human-robot collaborative task planning using anticipatory brain responses. *Plos one, 18(7), e0287958.* [DOI]() | [PDF]()
+**Ehrlich, S. K.**, Battistella, G., & Simonyan, K. (2023). Temporal Signature of Task‐Specificity in Isolated Focal Laryngeal Dystonia. *Movement Disorders, 38(10), 1925-1935.* [DOI]() | [PDF](/resources/2023_md_temporal_signatures.pdf)
 
-Malekmohammadi, A., **Ehrlich, S. K.**, Rauschecker, J. P., & Cheng, G. (2023). Listening to familiar music induces continuous inhibition of alpha and low-beta power. *Journal of Neurophysiology, 129(6), 1344-1358.* [DOI]() | [PDF]()
+**Ehrlich, S. K.**, Dean-Leon, E., Tacca, N., Armleder, S., Dimova-Edeleva, V., & Cheng, G. (2023). Human-robot collaborative task planning using anticipatory brain responses. *Plos one, 18(7), e0287958.* [DOI]() | [PDF](/resources/2023_HRI_PLOSone.pdf)
 
-Malekmohammadi, A., **Ehrlich, S. K.**, & Cheng, G. (2023). Modulation of theta and gamma oscillations during familiarization with previously unknown music. *Brain research, 1800, 148198.* [DOI]() | [PDF]()
+Malekmohammadi, A., **Ehrlich, S. K.**, Rauschecker, J. P., & Cheng, G. (2023). Listening to familiar music induces continuous inhibition of alpha and low-beta power. *Journal of Neurophysiology, 129(6), 1344-1358.* [DOI]() | [PDF](/resources/2023_Listening_to_familiar.pdf)
 
-Kofler, F., Meissen, F., Steinbauer, F., Graf, R., **Ehrlich, S. K.**, Reinke, A., ... & Menze, B. H. (2023). The brain tumor segmentation (brats) challenge: Local synthesis of healthy brain tissue via inpainting. *arXiv preprint arXiv:2305.08992.* [DOI]() | [PDF]()
+Malekmohammadi, A., **Ehrlich, S. K.**, & Cheng, G. (2023). Modulation of theta and gamma oscillations during familiarization with previously unknown music. *Brain research, 1800, 148198.* [DOI]() | [PDF](/resources/2023_music_modulation.pdf)
+
+
 
 Dimova-Edeleva, V., **Ehrlich, S. K.**, & Cheng, G. (2022). Brain computer interface to distinguish between self and other related errors in human agent collaboration. *Scientific Reports, 12(1), 20764.* [DOI]() | [PDF]()
 
