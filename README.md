@@ -26,69 +26,69 @@ Waldmannstetter, D., Ezhov, I., Wiestler, B., Campi, F., Kukuljan, I., **Ehrlich
 
 **Ehrlich, S. K.**, Roy, S. & Lampe, R. (2024). Somatosensory Mismatch Response in Patients with Cerebral Palsy. *Applied Sciences, 14(3), 1030.* (shared first authorship) [DOI]() [PDF](/resources/2024_sensory_cp.pdf)
 
-Kofler, F., Meissen, F., Steinbauer, F., Graf, R., **Ehrlich, S. K.**, Reinke, A., ... & Menze, B. H. (2024). The brain tumor segmentation (brats) challenge: Local synthesis of healthy brain tissue via inpainting. *arXiv preprint arXiv:2305.08992.* [DOI]() | [PDF](/resources/2024_brats)
+Kofler, F., Meissen, F., Steinbauer, F., Graf, R., **Ehrlich, S. K.**, Reinke, A., ... & Menze, B. H. (2024). The brain tumor segmentation (brats) challenge: Local synthesis of healthy brain tissue via inpainting. *arXiv preprint arXiv:2305.08992.* [DOI]() [PDF](/resources/2024_brats)
 
 ### 2023
 
 Kofler, F., Möller, H., Buchner, J., De la Rosa, E., Ezhof, I., Rosier, M., Mekki, I., Shit, S., Negwer, M., Al-Maskari, R., Ertürk, A., Vinayahalingam, S., Isensee, F., Pati, S., Rueckert, D., **Ehrlich, S. K.**, Kirschke, J. S., Reinke, A., Menze, B., Wiestler, B., Piraus., M. (2023). Panoptica – Instance-wise evaluation of 3D semantic and instance segmentation maps. *arXiv preprint arXiv:2312.02608.* [DOI]() [PDF](/resources/2024_panoptica.pdf)
 
-**Ehrlich, S. K.**, Battistella, G., & Simonyan, K. (2023). Temporal Signature of Task‐Specificity in Isolated Focal Laryngeal Dystonia. *Movement Disorders, 38(10), 1925-1935.* [DOI]() | [PDF](/resources/2023_md_temporal_signatures.pdf)
+**Ehrlich, S. K.**, Battistella, G., & Simonyan, K. (2023). Temporal Signature of Task‐Specificity in Isolated Focal Laryngeal Dystonia. *Movement Disorders, 38(10), 1925-1935.* [DOI]() [PDF](/resources/2023_md_temporal_signatures.pdf)
 
-**Ehrlich, S. K.**, Dean-Leon, E., Tacca, N., Armleder, S., Dimova-Edeleva, V., & Cheng, G. (2023). Human-robot collaborative task planning using anticipatory brain responses. *Plos one, 18(7), e0287958.* [DOI]() | [PDF](/resources/2023_HRI_PLOSone.pdf)
+**Ehrlich, S. K.**, Dean-Leon, E., Tacca, N., Armleder, S., Dimova-Edeleva, V., & Cheng, G. (2023). Human-robot collaborative task planning using anticipatory brain responses. *Plos one, 18(7), e0287958.* [DOI]() [PDF](/resources/2023_HRI_PLOSone.pdf)
 
-Malekmohammadi, A., **Ehrlich, S. K.**, Rauschecker, J. P., & Cheng, G. (2023). Listening to familiar music induces continuous inhibition of alpha and low-beta power. *Journal of Neurophysiology, 129(6), 1344-1358.* [DOI]() | [PDF](/resources/2023_Listening_to_familiar.pdf)
+Malekmohammadi, A., **Ehrlich, S. K.**, Rauschecker, J. P., & Cheng, G. (2023). Listening to familiar music induces continuous inhibition of alpha and low-beta power. *Journal of Neurophysiology, 129(6), 1344-1358.* [DOI]() [PDF](/resources/2023_Listening_to_familiar.pdf)
 
-Malekmohammadi, A., **Ehrlich, S. K.**, & Cheng, G. (2023). Modulation of theta and gamma oscillations during familiarization with previously unknown music. *Brain research, 1800, 148198.* [DOI]() | [PDF](/resources/2023_music_modulation.pdf)
+Malekmohammadi, A., **Ehrlich, S. K.**, & Cheng, G. (2023). Modulation of theta and gamma oscillations during familiarization with previously unknown music. *Brain research, 1800, 148198.* [DOI]() [PDF](/resources/2023_music_modulation.pdf)
 
 ### 2022
 
-Dimova-Edeleva, V., **Ehrlich, S. K.**, & Cheng, G. (2022). Brain computer interface to distinguish between self and other related errors in human agent collaboration. *Scientific Reports, 12(1), 20764.* [DOI]() | [PDF](/reousrces/2022_scientificReports_bci.pdf)
+Dimova-Edeleva, V., **Ehrlich, S. K.**, & Cheng, G. (2022). Brain computer interface to distinguish between self and other related errors in human agent collaboration. *Scientific Reports, 12(1), 20764.* [DOI]() [PDF](/reousrces/2022_scientificReports_bci.pdf)
 
-Tacca, N., Nassour, J., **Ehrlich, S. K.**, Berberich, N., & Cheng, G. (2022). Neuro-cognitive assessment of intentional control methods for a soft elbow exosuit using error-related potentials. *Journal of NeuroEngineering and Rehabilitation, 19(1), 1-18.* [DOI]() | [PDF](/resources/2022_elbow.pdf)
+Tacca, N., Nassour, J., **Ehrlich, S. K.**, Berberich, N., & Cheng, G. (2022). Neuro-cognitive assessment of intentional control methods for a soft elbow exosuit using error-related potentials. *Journal of NeuroEngineering and Rehabilitation, 19(1), 1-18.* [DOI]() [PDF](/resources/2022_elbow.pdf)
 
-Simonyan, K, **Ehrlich, S. K.**, Andersen, R., Brumberg, J., Guenther, F., Hallett, M., Howard, M. A., Millan, J. D. R., Reilly, R. B., Schultz, T., Valeriani, D. (2022). Brain-computer interfaces for treatment of focal dystonia. *Movement Disorders, 37(9), 1798-1802.* [DOI]() | [PDF](/resources/2022_md_bci.pdf)
+Simonyan, K, **Ehrlich, S. K.**, Andersen, R., Brumberg, J., Guenther, F., Hallett, M., Howard, M. A., Millan, J. D. R., Reilly, R. B., Schultz, T., Valeriani, D. (2022). Brain-computer interfaces for treatment of focal dystonia. *Movement Disorders, 37(9), 1798-1802.* [DOI]() [PDF](/resources/2022_md_bci.pdf)
 
 ### 2021
 
-Meyer, S. M., Mangalore, A. R., **Ehrlich, S. K.**, Berberich, N., Nassour, J., & Cheng, G. (2021). A Comparative Pilot Study on ErrPs for Different Usage Conditions of an Exoskeleton with a Mobile EEG Device. *43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 6203-6206).* [DOI]() | [PDF](/resources/2021_exoskelleton.pdf)
+Meyer, S. M., Mangalore, A. R., **Ehrlich, S. K.**, Berberich, N., Nassour, J., & Cheng, G. (2021). A Comparative Pilot Study on ErrPs for Different Usage Conditions of an Exoskeleton with a Mobile EEG Device. *43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 6203-6206).* [DOI]() [PDF](/resources/2021_exoskelleton.pdf)
 
-Pals, M., Belizón, R. J. P., Berberich, N., **Ehrlich, S. K.**, Nassour, J., & Cheng, G. (2021). Demonstrating the Viability of Mapping Deep Learning Based EEG Decoders to Spiking Networks on Low-powered Neuromorphic Chips. *43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 6102-6105).* [DOI]() | [PDF](/resources/2021_neuromorphic.pdf)
+Pals, M., Belizón, R. J. P., Berberich, N., **Ehrlich, S. K.**, Nassour, J., & Cheng, G. (2021). Demonstrating the Viability of Mapping Deep Learning Based EEG Decoders to Spiking Networks on Low-powered Neuromorphic Chips. *43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 6102-6105).* [DOI]() [PDF](/resources/2021_neuromorphic.pdf)
 
-Chen, X., Löhlein, S., Nassour, J., **Ehrlich, S. K.**, Berberich, N., & Cheng, G. (2021). Visually-guided Grip Selection for Soft-Hand Exoskeleton. *43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 4713-4716).* [DOI]() | [PDF](/resources/2021_hand_exo.pdf)
+Chen, X., Löhlein, S., Nassour, J., **Ehrlich, S. K.**, Berberich, N., & Cheng, G. (2021). Visually-guided Grip Selection for Soft-Hand Exoskeleton. *43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 4713-4716).* [DOI]() [PDF](/resources/2021_hand_exo.pdf)
 
 ### 2020
 
-Cheng, G., **Ehrlich, S. K.**, Lebedev, M., & Nicolelis, M. A. (2020). Neuroengineering challenges of fusing robotics and neuroscience. *Science Robotics, 5(49).* [DOI]() | [PDF](/resources/2020_scienceRobotics.pdf)
+Cheng, G., **Ehrlich, S. K.**, Lebedev, M., & Nicolelis, M. A. (2020). Neuroengineering challenges of fusing robotics and neuroscience. *Science Robotics, 5(49).* [DOI]() [PDF](/resources/2020_scienceRobotics.pdf)
 
-Schönleitner, F. M., Otter, L., **Ehrlich, S. K.**, & Cheng, G. (2020). Calibration-Free Error-Related Potential Decoding With Adaptive Subject-Independent Models: A Comparative Study. *IEEE Transactions on Medical Robotics and Bionics, 2(3), 399-409.* [DOI]() | [PDF](/resources/2020_schoenleitern_tmrb.pdf)
+Schönleitner, F. M., Otter, L., **Ehrlich, S. K.**, & Cheng, G. (2020). Calibration-Free Error-Related Potential Decoding With Adaptive Subject-Independent Models: A Comparative Study. *IEEE Transactions on Medical Robotics and Bionics, 2(3), 399-409.* [DOI]() [PDF](/resources/2020_schoenleitern_tmrb.pdf)
 
 ### 2019
 
-**Ehrlich, S. K.**, & Cheng, G. (2019). A computational model of human decision making and learning for assessment of co-adaptation in neuro-adaptive human-robot interaction. *IEEE International Conference on Systems, Man and Cybernetics (SMC) (pp. 264-271)* [DOI]() | [PDF](/resources/2019_smc19_humanmodel.pdf)
+**Ehrlich, S. K.**, & Cheng, G. (2019). A computational model of human decision making and learning for assessment of co-adaptation in neuro-adaptive human-robot interaction. *IEEE International Conference on Systems, Man and Cybernetics (SMC) (pp. 264-271)* [DOI]() [PDF](/resources/2019_smc19_humanmodel.pdf)
 
-Schönleitner, F. M., Otter, L., **Ehrlich, S. K.**, & Cheng, G. (2019). A comparative study on adaptive subject-independent classification models for zero-calibration error-potential decoding. *IEEE International Conference on Cyborg and Bionic Systems (CBS) (pp. 85-90).* [DOI]() | [PDF](/resources/2019_schoenleitner_cbs2019)
+Schönleitner, F. M., Otter, L., **Ehrlich, S. K.**, & Cheng, G. (2019). A comparative study on adaptive subject-independent classification models for zero-calibration error-potential decoding. *IEEE International Conference on Cyborg and Bionic Systems (CBS) (pp. 85-90).* [DOI]() [PDF](/resources/2019_schoenleitner_cbs2019)
 
-Braun, J. F., Díez-Valencia, G., **Ehrlich, S. K.**, Lanillos, P., & Cheng, G. (2019). A prototype of a P300 based brain-robot interface to enable multi-modal interaction for patients with limited mobility. *IEEE International Conference on Cyborg and Bionic Systems (CBS) (pp. 78-84).* [DOI]() | [PDF](/resources/2019_cbs_telepresenceBCI.pdf)
+Braun, J. F., Díez-Valencia, G., **Ehrlich, S. K.**, Lanillos, P., & Cheng, G. (2019). A prototype of a P300 based brain-robot interface to enable multi-modal interaction for patients with limited mobility. *IEEE International Conference on Cyborg and Bionic Systems (CBS) (pp. 78-84).* [DOI]() [PDF](/resources/2019_cbs_telepresenceBCI.pdf)
 
-**Ehrlich, S. K.**, Agres, K. R., Guan, C., & Cheng, G. (2019). A closed-loop, music-based brain-computer interface for emotion mediation. *PloS one, 14(3), e0213516.* [DOI]() | [PDF](/resources/2019_affectiveBCI.pdf)
+**Ehrlich, S. K.**, Agres, K. R., Guan, C., & Cheng, G. (2019). A closed-loop, music-based brain-computer interface for emotion mediation. *PloS one, 14(3), e0213516.* [DOI]() [PDF](/resources/2019_affectiveBCI.pdf)
 
-**Ehrlich, S. K.**, & Cheng, G. (2019). A Feasibility Study for Validating Robot Actions Using EEG-Based Error-Related Potentials. *International Journal of Social Robotics, 1-13.* [DOI]() | [PDF](/resources/2019_feasiblity.pdf)
+**Ehrlich, S. K.**, & Cheng, G. (2019). A Feasibility Study for Validating Robot Actions Using EEG-Based Error-Related Potentials. *International Journal of Social Robotics, 1-13.* [DOI]() [PDF](/resources/2019_feasiblity.pdf)
 
 ### < 2018
 
-**Ehrlich, S. K.**, & Cheng, G. (2018). Human-agent co-adaptation using error-related potentials. *Journal of Neural Engineering, 15(6), 066014.* [DOI]() | [PDF](/resources/2018_coadaptation.pdf)
+**Ehrlich, S. K.**, & Cheng, G. (2018). Human-agent co-adaptation using error-related potentials. *Journal of Neural Engineering, 15(6), 066014.* [DOI]() [PDF](/resources/2018_coadaptation.pdf)
 
-Alves-Pinto, A., **Ehrlich, S. K.**, Cheng, G., Turova, V., Blumenstein, T., & Lampe, R. (2017). Effects of short-term piano training on measures of finger tapping, somatosensory perception and motor-related brain activity in patients with cerebral palsy. *Neuropsychiatric Disease and Treatment, 13, 2705.* [DOI]() | [PDF](/resources/2017_sensory_cp.pdf)
+Alves-Pinto, A., **Ehrlich, S. K.**, Cheng, G., Turova, V., Blumenstein, T., & Lampe, R. (2017). Effects of short-term piano training on measures of finger tapping, somatosensory perception and motor-related brain activity in patients with cerebral palsy. *Neuropsychiatric Disease and Treatment, 13, 2705.* [DOI]() [PDF](/resources/2017_sensory_cp.pdf)
 
-**Ehrlich, S. K.**, Guan, C., & Cheng, G. (2017). A closed-loop Brain-Computer Music Interface for continuous affective interaction. *2017 International Conference on Orange Technologies (ICOT), (pp. 176-179).* [DOI]() | [PDF](/resources/2017_affectiveMusicBCI.pdf)
+**Ehrlich, S. K.**, Guan, C., & Cheng, G. (2017). A closed-loop Brain-Computer Music Interface for continuous affective interaction. *2017 International Conference on Orange Technologies (ICOT), (pp. 176-179).* [DOI]() [PDF](/resources/2017_affectiveMusicBCI.pdf)
 
-**Ehrlich, S. K.**, Alves-Pinto, A., Lampe, R., & Cheng, G. (2017). A simple and practical sensorimotor EEG device for recording in patients with special needs. *Neurotechnix2017, CogNeuroEng 2017, Symposium on Cognitive Neural Engineering.* [DOI]() | [PDF](/resources/2017_EEGdevice.pdf)
+**Ehrlich, S. K.**, Alves-Pinto, A., Lampe, R., & Cheng, G. (2017). A simple and practical sensorimotor EEG device for recording in patients with special needs. *Neurotechnix2017, CogNeuroEng 2017, Symposium on Cognitive Neural Engineering.* [DOI]() [PDF](/resources/2017_EEGdevice.pdf)
 
-**Ehrlich, S. K.**, & Cheng, G. (2016). A neuro-based method for detecting context-dependent erroneous robot action. *16th IEEE-RAS 16th International Conference on Humanoid Robots (pp. 477-482).* [DOI]() | [PDF](/resources/2016_humanoids.pdf)
+**Ehrlich, S. K.**, & Cheng, G. (2016). A neuro-based method for detecting context-dependent erroneous robot action. *16th IEEE-RAS 16th International Conference on Humanoid Robots (pp. 477-482).* [DOI]() [PDF](/resources/2016_humanoids.pdf)
 
-Hagerer, G. J., Lux, M., **Ehrlich, S. K.**, & Cheng, G. (2015). Augmenting affect from speech with generative music. *33rd Annual ACM Conference Extended Abstracts on Human Factors in Computing Systems (pp. 977-982).* [DOI]() | [PDF](/resources/2015_chi2015.pdf)
+Hagerer, G. J., Lux, M., **Ehrlich, S. K.**, & Cheng, G. (2015). Augmenting affect from speech with generative music. *33rd Annual ACM Conference Extended Abstracts on Human Factors in Computing Systems (pp. 977-982).* [DOI]() [PDF](/resources/2015_chi2015.pdf)
 
-**Ehrlich, S. K.**, Wykowska, A., Ramirez-Amaro, K., & Cheng, G. (2014). When to engage in interaction—And how? EEG-based enhancement of robot's ability to sense social signals in HRI. *14th IEEE-RAS International Conference on Humanoid Robots (pp. 1104-1109).* [DOI]() | [PDF](/resources/2014_humanoids.pdf)
+**Ehrlich, S. K.**, Wykowska, A., Ramirez-Amaro, K., & Cheng, G. (2014). When to engage in interaction—And how? EEG-based enhancement of robot's ability to sense social signals in HRI. *14th IEEE-RAS International Conference on Humanoid Robots (pp. 1104-1109).* [DOI]() [PDF](/resources/2014_humanoids.pdf)
 
 ## PhD Thesis
 
