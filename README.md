@@ -1,7 +1,7 @@
 # Stefan Ehrlich, PhD
 
-I am currently group leader and head of healthcare technologies at [SETLabs Research GmbH](https://www.setlabs.de/) in Munich focusing on applied research into human-centered robotics, multmodal AI, and digital twinning.
-Previously, I was a Postdoctoral Research Fellow and later Visiting Scientist at [Harvard Medical School](https://simonyanlab.meei.harvard.edu/), where I developed a novel brain–computer interface system for treatment of neurological voice disorders.
+I am currently group leader and head of healthcare technologies at [SETLabs Research GmbH](https://www.setlabs.de/) in Munich focusing on applied research into human-centered robotics, multmodal AI, and digital twinning (since 04/2023).
+Previously, I was a Postdoctoral Research Fellow (11/2021-02/2023) and later Visiting Scientist (since 03/2023) at [Harvard Medical School](https://simonyanlab.meei.harvard.edu/), where I developed a novel brain–computer interface system for treatment of neurological voice disorders.
 I completed my PhD in Electrical and Computer Engineering at the [Technical University of Munich](https://www.ce.cit.tum.de/ics/home/) in 2020 on neuroadaptive human-robot interaction.
 
 [LinkedIn](https://www.linkedin.com/in/stefan-ehrlich-051b5173/) | [Google Scholar](https://scholar.google.de/citations?user=V9xkbsgAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Stefan-Ehrlich-2)
