@@ -92,7 +92,7 @@ Hagerer, G. J., Lux, M., **Ehrlich, S. K.**, & Cheng, G. (2015). Augmenting affe
 
 ## PhD Thesis
 
-**Ehrlich, S. K.** (2020). Error-related potentials in passive brain-computer interfaces for quantitative assessment and adaptation of robotic systems during human-robot interaction *(Doctoral dissertation, Technische Universität München)*. [DOI](doi:10.14459/2020md1520648) / [PDF](/resources/)
+**Ehrlich, S. K.** (2020). Error-related potentials in passive brain-computer interfaces for quantitative assessment and adaptation of robotic systems during human-robot interaction *(Doctoral dissertation, Technische Universität München)*. [DOI](doi:10.14459/2020md1520648) / [PDF](/resources/2020_ehrlich_thesis.pdf)
 
 ## Talks and Posters
 
