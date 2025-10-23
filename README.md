@@ -1,4 +1,4 @@
-# Stefan Ehrlich
+# Stefan Ehrlich, PhD
 
 I am currently group leader and head of healthcare technologies at [SETLabs Research GmbH](https://www.setlabs.de/) in Munich focusing on applied research into human-centered robotics, multmodal AI, and digital twinning.
 Previously, I was a Postdoctoral Research Fellow and later Visiting Scientist at [Harvard Medical School](https://simonyanlab.meei.harvard.edu/), where I developed a novel brain–computer interface system for treatment of neurological voice disorders.
