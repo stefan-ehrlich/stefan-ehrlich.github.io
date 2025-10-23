@@ -8,13 +8,13 @@ I completed my PhD in Electrical and Computer Engineering at the [Technical Univ
 
 ## Publications
 
-**Ehrlich, S. K.**, Tougas, G., Bernstein, J., Buie, N., Rumbach, A. F., Simonyan, K. (2025). Brain-Computer Interface Improves Symptoms of Isolated Focal Laryngeal Dystonia: A single-blind study. Movement Disorders (in press) 
+**Ehrlich, S. K.**, Tougas, G., Bernstein, J., Buie, N., Rumbach, A. F., Simonyan, K. (2025). Brain-Computer Interface Improves Symptoms of Isolated Focal Laryngeal Dystonia: A single-blind study. *Movement Disorders (in press)*
 
-Jha, S., & **Ehrlich, S. K.** (2025). Lightweight Structured Multimodal Reasoning for Clinical Scene Understanding in Robotics. arXiv preprint arXiv:2509.22014. [DOI](https://arxiv.org/abs/2509.22014) | [PDF](/assets/somePdf.pdf)
+Jha, S., & **Ehrlich, S. K.** (2025). Lightweight Structured Multimodal Reasoning for Clinical Scene Understanding in Robotics. *arXiv preprint arXiv:2509.22014*. [DOI](https://arxiv.org/abs/2509.22014) | [PDF](/resources/2025_SceneUnderstanding.pdf)
 
-Agres, K. R., Dash, A., Chua, P., & **Ehrlich, S. K.** (2025). AffectMachine-Pop: A controllable expert system for real-time pop music generation. arXiv preprint arXiv:2506.08200. Presented at AAAI workshop on AI for Music, 39th Annual AAAI conference on Artificial Intelligence 2025. [DOI]() | [PDF]()
+Agres, K. R., Dash, A., Chua, P., & **Ehrlich, S. K.** (2025). AffectMachine-Pop: A controllable expert system for real-time pop music generation. arXiv preprint arXiv:2506.08200. Presented at AAAI workshop on AI for Music, 39th Annual AAAI conference on Artificial Intelligence 2025. [DOI]() | [PDF](/resources/2025_AAAI_AI_for_Music.pdf)
 
-Petit, J., **Ehrlich, S. K.**, Tougas, G., Bernstein, J. M., Buie, N. E., & Simonyan, K. (2025). Impact of Audio‐Visual Complexity on Symptomatology of Laryngeal Dystonia: A Virtual Reality Study. The Laryngoscope, 135(2), 787-793.
+Petit, J., **Ehrlich, S. K.**, Tougas, G., Bernstein, J. M., Buie, N. E., & Simonyan, K. (2025). Impact of Audio‐Visual Complexity on Symptomatology of Laryngeal Dystonia: A Virtual Reality Study. The Laryngoscope, 135(2), 787-793. [DOI] | [PDF](/resources/2024_vr_bci.pdf)
 
 Heathon, S., Yun J H, **Ehrlich, S. K.** (2024). Predicting the Performance of Human-Agent Collaboration: Insights from Uncertainty Reduction Theory, Dynamic Capabilities Perspectives, and Human Brains. The Wharton School Research Paper. Available at SSRN 
 
