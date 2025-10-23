@@ -10,7 +10,7 @@ I completed my PhD in Electrical and Computer Engineering at the [Technical Univ
 
 **Ehrlich, S. K.**, Tougas, G., Bernstein, J., Buie, N., Rumbach, A. F., Simonyan, K. (2025). Brain-Computer Interface Improves Symptoms of Isolated Focal Laryngeal Dystonia: A single-blind study. Movement Disorders (in press) 
 
-Jha, S., & **Ehrlich, S. K.** (2025). Lightweight Structured Multimodal Reasoning for Clinical Scene Understanding in Robotics. arXiv preprint arXiv:2509.22014. 
+Jha, S., & **Ehrlich, S. K.** (2025). Lightweight Structured Multimodal Reasoning for Clinical Scene Understanding in Robotics. arXiv preprint arXiv:2509.22014. [DOI](https://arxiv.org/abs/2509.22014)
 
 Agres, K. R., Dash, A., Chua, P., & **Ehrlich, S. K.** (2025). AffectMachine-Pop: A controllable expert system for real-time pop music generation. arXiv preprint arXiv:2506.08200. Presented at AAAI workshop on AI for Music, 39th Annual AAAI conference on Artificial Intelligence 2025.
 
