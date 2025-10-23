@@ -6,7 +6,7 @@ I completed my PhD in Electrical and Computer Engineering at the [Technical Univ
 
 [LinkedIn](https://www.linkedin.com/in/stefan-ehrlich-051b5173/) | [Google Scholar](https://scholar.google.de/citations?user=V9xkbsgAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Stefan-Ehrlich-2)
 
-## Publications
+## Publications 
 
 ### 2025
 
