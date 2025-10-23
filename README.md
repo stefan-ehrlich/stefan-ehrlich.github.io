@@ -24,7 +24,7 @@ Heathon, S., Yun J H, **Ehrlich, S. K.** (2024). Predicting the Performance of H
 
 Waldmannstetter, D., Ezhov, I., Wiestler, B., Campi, F., Kukuljan, I., **Ehrlich, S. K.**, Vinayahalingam, S., Baheti, B., Chakrabarty, S., Baid, U., Bakas, S., Schwarting, J., Metz, M., Kirschke, J. S., Rueckert, D., Heckemann, R. A., Piraud, M., Menze, B. H., Kofler, F. (2024). Framing image registration as a landmark detection problem for label-noise aware task representation (HitR). *arXiv preprint arXiv:2308.01318.* [DOI]() [PDF](/resources/2024_hitR.pdf)
 
-**Ehrlich, S. K.***, Roy, S.* & Lampe, R. (2024). Somatosensory Mismatch Response in Patients with Cerebral Palsy. *Applied Sciences, 14(3), 1030.* *) shared first authorship. [DOI]() [PDF](/resources/2024_sensory_cp.pdf)
+**Ehrlich, S. K.**, Roy, S. & Lampe, R. (2024). Somatosensory Mismatch Response in Patients with Cerebral Palsy. *Applied Sciences, 14(3), 1030.* -shared first authorship- [DOI]() [PDF](/resources/2024_sensory_cp.pdf)
 
 Kofler, F., Meissen, F., Steinbauer, F., Graf, R., **Ehrlich, S. K.**, Reinke, A., ... & Menze, B. H. (2024). The brain tumor segmentation (brats) challenge: Local synthesis of healthy brain tissue via inpainting. *arXiv preprint arXiv:2305.08992.* [DOI]() | [PDF](/resources/2024_brats)
 
