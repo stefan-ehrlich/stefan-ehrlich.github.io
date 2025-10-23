@@ -94,8 +94,67 @@ Hagerer, G. J., Lux, M., **Ehrlich, S. K.**, & Cheng, G. (2015). Augmenting affe
 
 **Ehrlich, S. K.** (2020). Error-related potentials in passive brain-computer interfaces for quantitative assessment and adaptation of robotic systems during human-robot interaction *(Doctoral dissertation, Technische Universität München)*. [DOI](doi:10.14459/2020md1520648) / [PDF](/resources/)
 
-
-
 ## Talks and Posters
+
+### 2025
+
+Petit, J., **Ehrlich, S.K.**, Tougas, G., Bernstein, J. M., Buie, N., Simonyan K. (2025). Impact of Surrounding Audio-Visual Complexity on Symptomatology of Laryngeal Dystonia: A Virtual Reality Study. *Movement Disorders Conference 2025, Honolulu, Hawaii, USA.* Extended abstract and poster presentation.
+
+Petit, J., **Ehrlich, S.K.**, Tougas, G., Bernstein, J. M., Buie, N., Simonyan K. (2025). Impact of Surrounding Audio-Visual Complexity on Symptomatology of Laryngeal Dystonia: A Virtual Reality Study. *Brain-Computer Interface Society Meeting 2025, Banff, Canada.* Extended abstract and poster presentation.
+
+Petit, J., **Ehrlich, S.K.**, Tougas, G., Bernstein, J. M., Buie, N., Simonyan K. (2025). Adaptive Closed-Loop Neurofeedback Brain-Computer Interface for Treatment of Laryngeal Dystonia. *Brain-Computer Interface Society Meeting 2025, Banff, Canada.* Extended abstract and oral presentation.
+
+Ghita, A. A., **Ehrlich, S. K.** (2025). VIR4D – 4D Scene Representations for Robot Vision in Human-Centric Indoor Environments. *1st German Robotics Conference 2025, Nürnberg.* Extended abstract and poster presentation.
+
+### 2023
+
+**Ehrlich, S. K.**, Tougas, G., Simonyan, K. (2023). Brain-computer interface for treatment of focal dystonia. *10th International BCI Meeting 2023, Sonian Forest, Brussels, Belgium.* Abstract and poster presentation.
+
+### 2022
+
+**Ehrlich, S. K.**, Tougas, G., Simonyan, K. (2022). Brain-Computer interfaces for treatment of focal dystonia: results from 3 patients. *12th World Congress for Neurorehabilitation 2022, Vienna.* Abstract and oral presentation.
+
+**Ehrlich, S. K.**, Simonyan, K. (2022). Brain-Computer interfaces for treatment of focal dystonia: A case study. *Joint meeting of Neuroergonomics Conference & NYC Neuromodulation Conference 2022, New York City, USA.* Abstract and poster presentation.
+
+**Ehrlich, S. K.**, Simonyan, K. (2022). AI-informed real-time speech prosthesis for neurological voice and speech disorders. *AICures – joint meeting of Massachussets Institute of Technology (MIT) and Mass General Brigham (MGB), Boston, USA, 2022.* Abstract and poster presentation.
+
+### 2020
+
+**Ehrlich, S. K.** & Cheng, G. (2020). Passive BCI for assessment and adaptation of robotic systems during human-robot interaction. *Abstract and presentation at BCI: Science & Practice, Samara 2020.* Abstract and oral presentation.
+
+Dimova, V., **Ehrlich, S. K.**, & Cheng, G. (2020). ErrP Components of Self- and Agent-Related Errors in Human-Agent Collaboration. *BCI: Science & Practice, Samara 2020.* Abstract and poster presentation.
+
+Hoxha, I., Del Duca, F., **Ehrlich, S. K.**, Bergner, F., Berberich, N., & Cheng, G. (2020). Improving user comfort in auditory-steady-state-response brain-computer interface by using a co-adaptive stimulus. *FENS2020 - Virtual Forum.* Abstract and poster presentation.
+
+Popova, M., Tschiersch, M., Berberich, N., **Ehrlich, S. K.**, Franklin, D., & Cheng, G. (2020). A bump-attractor spiking neural network for motor adaptation and washout based on norepinephrine release in primary motor cortex. *CBS2020 - Virtual Forum.* Abstract and poster presentation.
+
+Tschiersch, M., Popova, M., Berberich, N., **Ehrlich, S. K.**, Franklin, D., & Cheng, G. (2020). A bump-attractor spiking neural network for motor learning based on norepinephrine release. *FENS2020 - Virtual Forum.* Abstract and poster presentation.
+
+### 2019
+
+**Ehrlich, S. K.** (2019). A closed-loop, music-based brain computer interface for emotion mediation. *International symposium on Neuroscience with Music 2019, Berlin, Germany.* Invited talk.
+
+Malekmohammadi, A., Jacobs, J. T., Uhde, C., **Ehrlich, S. K.**, Philipps-Silver, J., Toiviainen, P., Rauschecker, J. P., & Cheng, G. (2019). Brain-To-Sound Computer Interfaces: Neurofeedback of Music for Entrainment, Interaction and Neurorehabilitation. *IGSSE Forum 2019, Raitenhaslach, Germany.* Poster presentation.
+
+Weiß, L., Zillekens, M, **Ehrlich, S. K.**, Rinklin, P., Cheng, G., & Wolfrum, B. (2019). Bridging the gap: From abstract oddball experiments towards the classification of sparse events using a hybrid EEG-fNIRS approach. *ARTscientific Artinis NIRS symposium 2019, Netherlands.* Abstract and poster presentation.
+
+### < 2018
+
+**Ehrlich, S. K.** & Cheng, G. (2016). Detecting erroneous robot behavior from the electroencephalogram (EEG) during human robot interaction. *Bernstein Conference 2016, Berlin, Germany.* Abstract and poster presentation.
+
+**Ehrlich, S. K.**, Alves-Pinto, A., Lampe, R., & Cheng, G. (2016). A simple and practical prototype of a sensorimotor EEG device. *Bernstein Conference 2016, Berlin, Germany.* Abstract and poster presentation.
+
+**Ehrlich, S. K.**, Wykowska, A., Ramirez-Amaro, K., & Cheng, G. (2015). Predictive modeling of higher-cognitive processes involved in social engagement based on electroencephalography (EEG). *Bernstein Conference 2015, Heidelberg, Germany.* Abstract and poster presentation.
+
+**Ehrlich, S. K.**, Wykowska, A., Ramirez-Amaro, K., & Cheng, G (2015). Predictive modeling of higher-cognitive processes involved in social engagement based on electroencephalography (EEG). *Young Researcher’s Retreat 2015, Nara, Japan.* Abstract and poster presentation.
+
+**Ehrlich, S. K.**, Wykowska, A., Ramirez-Amaro, K., & Cheng, G (2015). Predictive modeling of higher-cognitive processes involved in social engagement based on electroencephalography (EEG). *CuttingEEG Workshop 2015, Berlin, Germany.* Abstract and poster presentation.
+
+**Ehrlich, S. K.** (2014). Affective brain-computer interfaces (aBCI) and human-robot interaction (HRI). *University of Costa Rica (UCR), 2014, San José, Costa Rica.* Invited talk.
+
+**Ehrlich, S. K.**, Guan, C., & Cheng, G. (2013). Closed-loop Interaction with Affective Brain-Music Interface. *Bernstein Conference 2013, Tübingen, Germany.* Abstract and poster presentation.
+
+**Ehrlich, S. K.**, Guan, C., & Cheng, G. (2013). Monitoring emotional states in the loop and its potential applications. *Biomedical Signal Analysis Conference 2013, Rio de Janeiro, Brazil.* Abstract, poster presentation, and oral presentation.
+
 
 
