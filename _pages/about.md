@@ -25,4 +25,3 @@ I am currently group leader and head of healthcare technologies at [SETLabs Rese
 Previously, I was a Postdoctoral Research Fellow (11/2021-02/2023) and later Visiting Scientist (since 03/2023) at [Harvard Medical School](https://simonyanlab.meei.harvard.edu/), where I developed a novel brain-computer interface system for treatment of neurological voice disorders. 
 
 I completed my PhD in Electrical and Computer Engineering at the [Technical University of Munich](https://www.ce.cit.tum.de/ics/home/) in 2020 on neuroadaptive human-robot interaction.
-
