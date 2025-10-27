@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>SETLabs Research GmbH</a>. Elsenheimerstraße 55, 80687 München. Contacts. Motto. Etc.
+subtitle: <a href='#'>SETLabs Research GmbH</a>. Elsenheimerstrasse 55, 80687 Muenchen. Contacts. Motto. Etc.
 
 profile:
   align: right
