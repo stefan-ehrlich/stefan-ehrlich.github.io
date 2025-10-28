@@ -29,10 +29,10 @@ I completed my PhD in Electrical and Computer Engineering at the [Technical Univ
 ### Interests
 * Human-Centered Robotics
 * Human-AI Interaction
+* Multimodal AI
 * Digital Twinning
 * Neural Engineering
-* Biomedical Signal Processing
-* Brain-Machine Interfaces
+* Neurotechnologies
 
 
 
