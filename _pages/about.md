@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Group Leader Healthcare Technologies @ SETLabs (Munich). Ex-Postdoc & Visiting Scientist @ Harvard Medical School. PhD @ TU Munich.
+subtitle: Group Leader @ SETLabs Research. Ex-Postdoc & Visiting Scientist @ Harvard Medical School. PhD @ TU Munich.
 
 profile:
   align: right
@@ -26,8 +26,13 @@ Previously, I was a Postdoctoral Research Fellow (11/2021-02/2023) and later Vis
 
 I completed my PhD in Electrical and Computer Engineering at the [Technical University of Munich](https://www.ce.cit.tum.de/ics/home/) in 2020 on neuroadaptive human-robot interaction.
 
-###Interests
+### Interests
+* Human-Centered Robotics
+* Human-AI Interaction
+* Digital Twinning
 * Neural Engineering
-* Human-AI interaction
+* Biomedical Signal Processing
+* Brain-Machine Interfaces
+
 
 
