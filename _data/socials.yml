@@ -27,12 +27,12 @@ github_username: stefan-ehrlich # your GitHub user name
 linkedin_username: stefan-ehrlich-051b5173 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: 0000-0002-3634-6973 # your ORCID ID
+# orcid_id: 0000-0002-3634-6973 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-research_gate_profile: Stefan-Ehrlich-2 # your profile on ResearchGate
+# research_gate_profile: Stefan-Ehrlich-2 # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: V9xkbsgAAAAJ&hl # your Google Scholar ID
 # scopus_id: # your profile on Scopus
@@ -50,7 +50,7 @@ scholar_userid: V9xkbsgAAAAJ&hl # your Google Scholar ID
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+# custom_social: # can be any name here other than the ones already defined above
+#  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+#  title: Custom Social
+#  url: https://www.alberteinstein.com/
