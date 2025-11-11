@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: stefan_ehrlich_2_grey.jpg
+  image: stefan_ehrlich_2_grey2.jpg
   image_circular: false # crops the image to make it circular
 
 
