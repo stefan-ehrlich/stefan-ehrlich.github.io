@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Group Leader @ SETLabs Research. Ex-Postdoc & Visiting Scientist @ Harvard Medical School. PhD @ TU Munich.
+subtitle: 
 
 profile:
   align: right
@@ -10,17 +10,17 @@ profile:
   image_circular: true # crops the image to make it circular
 
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 ---
 
-I am currently group leader and head of healthcare technologies at [SETLabs Research GmbH](https://www.setlabs.de/) in Munich focusing on applied research into human-centered robotics, multimodal AI, and digital twinning (since 04/2023). 
+I am currently a lead researcher and group lead Healthcare Technologies at [SETLabs Research GmbH](https://www.setlabs.de/) in Munich focusing on applied research into human-centered robotics, multimodal AI, and digital twinning (since 04/2023). 
 
 Previously, I was a Postdoctoral Research Fellow (11/2021-02/2023) and later Visiting Scientist (since 03/2023) at [Harvard Medical School](https://simonyanlab.meei.harvard.edu/), where I developed a novel brain-computer interface system for treatment of neurological voice disorders. 
 
