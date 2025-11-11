@@ -2,79 +2,49 @@
   type: map
   contents:
     - name: Full Name
-      value: Stefan Ehrlich
+      value: Martin Bulla
+    - name: Date of Birth
+      value: 31st August 1981
     - name: Languages
-      value: German, English, Portugues, Spanish, Frensh
+      value: English, German, Czech <em>native</em>, Slovak, Russian <em>basic</em>
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Assistent
+      institution: Czech University of Life Sciences Prague, Czechia
+      year: 2024 - present
+    - title: Postdoc
+      institution: Max Planck Institute for Biological Intelligence, Germany
+      year: 2023 - 2024
+    - title: Postdoc
+      institution: Czech University of Life Sciences Prague, Czechia
+      year: 2017 - 2024  
+    - title: Postdoc
+      institution: Max Planck Institute for Ornithology, Germany
+      year: 2019 - 2022
+    - title: Postdoc
+      institution: NIOZ Royal Netherlands Institute for Sea Research, the Netherlands
+      year: 2016 - 2019
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: Technical University of Munich, Germany
-      year: 2020
-      description:
-        - Electrical and Computer Engineering
-    - title: Master of Science
-      institution: Technical University of Munich, Germany
-      year: 2012
-      description:
-        - Electrical and Computer Engineering
-    - title: Diploma (DH) / Bachelor of Science
-      institution: Baden-Wuerttemberg Cooperative State University
-      year: 2012
-      description:
-        - Electrical Engineering
-        
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Group Leader and Head of Healthcare Technologies
-      institution: SETLabs Research GmbH, Munich, Germany
-      year: 2023 -
-      description:
-        - Heading the strategic development of the healthcare technologies domain at SETLabs Research.
-        - Team lead; supervising PhD and master's students.
-        - Applied research into healthcare robotics, embodied AI, human digital twinning, and digital health. 
-        - Funding and project acquisition.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 2021-2023
-      description:
-        - Description 1.
-        - Description 2.
-    - title: Visiting Scientist (since 2023) and Postdoctoral Research Fellow (2021-2023)
-      institution: Harvard Medical School & Massachusetts Eye and Ear, Boston, USA
-      year: 2021-2023
-      description:
-        - Description 1.
-        - Description 2.
-    - title: Postdoctoral Researcher (2020–2021) and Doctoral Candidate (until 2020)
-      institution: Technical University of Munich, Germany
-      year: 2021-2023
-      description:
-        - Description 1.
-        - Description 2.
-    - title: R&D Engineer
-      institution: Dentsply Sirona Inc., Bensheim, Germany
-      year: 2021-2023
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+      institution: Max Planck Institute for Ornithology, Seewiesen
+      year: 2017
+    - title: MSc
+      institution: Uni. of Natural Resources & Applied Life Sciences, Vienna
+      year: 2010
+    - title: Mgr
+      institution: Charles University, Prague
+      year: 2006
+    - title: BSc
+      institution: State University of New York, Prague
+      year: 2004
+    - title: Graduation
+      institution: Gymnasium Arabska, Prague
+      year: 2000  
+    - title: Graduation
+      institution: Kendall Senior High School, United States
+      year: 1999  

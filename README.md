@@ -1,1 +1,1 @@
-# Personal Website Stefan Ehrlich
+Scientific & perhaps non-scientific me

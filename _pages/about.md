@@ -2,33 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
-
+subtitle:  <a href='https://www.nature.com/articles/nature20563'>Biorhythms</a>, <a href='https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13662'>macroecology & evolution</a>, <a href='https://osf.io/profile/'>open science</a>, <a href='https://www.youtube.com/channel/UCP8ITIDaFZHW68z7KaTyDew'>shorebirds</a>.
 profile:
   align: right
-  image: stefan_ehrlich_2.jpg
+  image: me_&_kohout_bw_kohout-pop_grey.jpg
   image_circular: false # crops the image to make it circular
-
+  address: >
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
-
+social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently a lead researcher and group lead Healthcare Technologies at [SETLabs Research GmbH](https://www.setlabs.de/) in Munich focusing on applied research into human-centered robotics, multimodal AI, and digital twinning (since 04/2023). 
+I strive to understand the World within and around me. 
 
-Previously, I was a Postdoctoral Research Fellow (11/2021-02/2023) and later Visiting Scientist (since 03/2023) at [Harvard Medical School](https://simonyanlab.meei.harvard.edu/), where I developed a novel brain-computer interface system for treatment of neurological voice disorders. 
+As a **scientist**, I use birds, mainly shorebirds, to explore 
+- <a href='https://www.nature.com/articles/s41598-019-41223-z'>rhythms of parental care</a> and <a href='https://doi.org/10.3389/fevo.2019.00093'>how such rhythms emerge</a>, 
+-  <a href='https://www.nature.com/articles/nature20563'>within- and between-species differences in rhythmicities</a> and what may drive such differences, as well as
+- <a href='https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13662'>distribution and evolution of traits across the globe</a>
 
-I completed my PhD in Electrical and Computer Engineering at the [Technical University of Munich](https://www.ce.cit.tum.de/ics/home/) in 2020 on neuroadaptive human-robot interaction.
+**Currently**, I am investigating global similarities in shorebird parental care, global differences in uniparental incubation of shorebirds, biorhythms of red knots and drivers of global variation in the song of songbirds.  
 
-### Interests
-* Human-Centered Robotics
-* Human-AI Interaction
-* Multimodal AI
-* Digital Twinning
-* Neural Engineering
-* Neurotechnologies
+I am an **associate professor** at   [Czech University of Life Sciences Prague](https://www.czu.cz/en) and **collaborate** with [scientists and institutions across the globe](https://doi.org/10.1126/science.aaw8529). 
 
-
-
+I am a regular contributor to <a href='https://www.inaturalist.org/people/1583651'>iNaturalist</a>. 
