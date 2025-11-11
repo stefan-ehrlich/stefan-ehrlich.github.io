@@ -13,7 +13,11 @@
 email: stefan.kh.ehrlich@gmail.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
+linkedin_username: stefan-ehrlich-051b5173 # your LinkedIn user name
+scholar_userid: V9xkbsgAAAAJ&hl # your Google Scholar ID
 github_username: stefan-ehrlich # your GitHub user name
+orcid_id: 0000-0002-3634-6973 # your ORCID ID
+research_gate_profile: Stefan-Ehrlich-2 # your profile on ResearchGate
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -24,17 +28,16 @@ github_username: stefan-ehrlich # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: stefan-ehrlich-051b5173 # your LinkedIn user name
+
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: 0000-0002-3634-6973 # your ORCID ID
+
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-research_gate_profile: Stefan-Ehrlich-2 # your profile on ResearchGate
+
 # rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: V9xkbsgAAAAJ&hl # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
