@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287958'>Human-Centered Robotics</a>, <a href='https://arxiv.org/abs/2509.22014'>AI4Healthcare</a>, <a href='https://www.science.org/doi/abs/10.1126/scirobotics.abd1911'>Neuroengineering</a>, <a href='https://movementdisorders.onlinelibrary.wiley.com/doi/abs/10.1002/mds.70114'>Neurotechnologies & BCI</a>.
+subtitle: <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287958'>Human-Centered Robotics</a> | <a href='https://arxiv.org/abs/2509.22014'>AI4Healthcare</a> | <a href='https://movementdisorders.onlinelibrary.wiley.com/doi/abs/10.1002/mds.70114'>Neurotechnologies & BCI</a> | <a href='https://www.science.org/doi/abs/10.1126/scirobotics.abd1911'>Neuroengineering</a>
 
 profile:
   align: right
-  image: stefan_ehrlich_2_grey2.jpg
+  image: stefan_ehrlich_4_grey.jpg
   image_circular: false # crops the image to make it circular
 
 
