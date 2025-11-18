@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-I am currently a lead researcher and group lead Healthcare Technologies at [SETLabs Research GmbH](https://www.setlabs.de/) in Munich focusing on applied research into human-centered robotics and multimodal AI for clinical workflow automation (since 04/2023). 
+I am currently a research group leader at [SETLabs Research GmbH](https://www.setlabs.de/) in Munich focusing on applied research into AI for healthcare and human-centered robotics for clinical workflow automation (since 04/2023). 
 
 Previously, I was a Postdoctoral Research Fellow (11/2021-02/2023) and later Visiting Scientist (since 03/2023) at [Harvard Medical School](https://simonyanlab.meei.harvard.edu/), where I am contributing to the development of a brain-computer interface system for treatment of neurological voice disorders. 
 
