@@ -16,13 +16,13 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-I am currently a research group leader at [**<span style="color:#2698ba">SETLabs Research GmbH</span>**](https://www.setlabs.de/) in Munich focusing on applied research into AI for healthcare and human-centered robotics for clinical workflow automation (since 04/2023). 
+I am currently a research group leader at [SETLabs Research GmbH](https://www.setlabs.de/) in Munich focusing on applied research into AI for healthcare and human-centered robotics for clinical workflow automation (since 04/2023). 
 
-Previously, I was a Postdoctoral Research Fellow (11/2021-02/2023) and later Visiting Scientist (since 03/2023) at [Harvard Medical School](https://simonyanlab.meei.harvard.edu/), where I am contributing to the development of a brain-computer interface system for treatment of neurological voice disorders. 
+Previously, I was a Postdoctoral Research Fellow (11/2021-02/2023) and later Visiting Scientist (since 03/2023) at [Harvard Medical School](https://simonyanlab.meei.harvard.edu/) in Boston, where I developed a brain-computer interface system for treatment of neurological voice disorders. 
 
 I completed my PhD (Dr.-Ing.) in Electrical and Computer Engineering at the [Technical University of Munich](https://www.ce.cit.tum.de/ics/home/) in 2020 on neuroadaptive human-robot interaction.
 
-I’m driven by a deep curiosity and a genuine desire to create meaningful innovation. I always appreciate connecting with researchers and tech-enthusiasts who are working along similar lines.
+I’m driven by deep curiosity and a genuine desire to create meaningful innovation. I always appreciate connecting with researchers and tech-enthusiasts who are working along similar lines.
 If any of this resonates with you, I’d be happy to [connect!](stefan.kh.ehrlich@gmail.com)
 
 ### Research interests
