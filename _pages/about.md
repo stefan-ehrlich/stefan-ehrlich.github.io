@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287958'>Human-Centered Robotics</a> | <a href='https://arxiv.org/abs/2509.22014'>AI4Healthcare</a> | <a href='https://movementdisorders.onlinelibrary.wiley.com/doi/abs/10.1002/mds.70114'>Neurotechnologies & BCI</a> | <a href='https://www.science.org/doi/abs/10.1126/scirobotics.abd1911'>Neuroengineering</a>
+subtitle: <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287958'>Human-Centered Robotics</a> | <a href='https://arxiv.org/abs/2509.22014'>AI4Healthcare</a> | <a href='https://movementdisorders.onlinelibrary.wiley.com/doi/abs/10.1002/mds.70114'>Brain-Computer Interfaces</a> | <a href='https://www.science.org/doi/abs/10.1126/scirobotics.abd1911'>Neuroengineering</a>
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 
 ---
 
@@ -22,9 +22,8 @@ Previously, I was a Postdoctoral Research Fellow (11/2021-02/2023) and later Vis
 
 I completed my PhD (Dr.-Ing.) in Electrical and Computer Engineering at the [Technical University of Munich](https://www.ce.cit.tum.de/ics/home/) in 2020 on neuroadaptive human-robot interaction.
 
-### Interests
-* Human-Centered Robotics
+### Research interests
 * Human-AI Interaction
-* Digital Twinning
-* Neural Engineering
-* Neurotechnologies
+* (Patient) Digital Twinning
+* Synthetic Health Data
+* 
