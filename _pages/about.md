@@ -6,7 +6,7 @@ subtitle: <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.
 
 profile:
   align: right
-  image: stefan_ehrlich_3_grey.jpg
+  image: stefan_ehrlich_3b_grey.jpg
   image_circular: false # crops the image to make it circular
 
 
