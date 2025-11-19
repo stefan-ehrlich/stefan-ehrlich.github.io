@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287958'>Human-Centered Robotics</a> | <a href='https://arxiv.org/abs/2509.22014'>AI4Healthcare</a> | <a href='https://movementdisorders.onlinelibrary.wiley.com/doi/abs/10.1002/mds.70114'>Neurotechnologies & BCI</a> | <a href='https://www.science.org/doi/abs/10.1126/scirobotics.abd1911'>Neuroengineering</a>
+subtitle: <a href='https://iopscience.iop.org/article/10.1088/1741-2552/aae069/meta'>Human-Centered Robotics</a> | <a href='https://arxiv.org/abs/2509.22014'>AI4Healthcare</a> | <a href='https://movementdisorders.onlinelibrary.wiley.com/doi/abs/10.1002/mds.70114'>Neurotechnologies & BCI</a> | <a href='https://www.science.org/doi/abs/10.1126/scirobotics.abd1911'>Neuroengineering</a>
 
 profile:
   align: right
