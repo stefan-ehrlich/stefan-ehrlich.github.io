@@ -25,8 +25,9 @@ I completed my PhD (Dr.-Ing.) in Electrical and Computer Engineering at the [Tec
 I’m driven by deep curiosity and a genuine desire to create meaningful innovation. I always appreciate connecting with researchers and tech-enthusiasts who are working along similar lines.
 If any of this resonates with you, I’d be happy to [connect!](mailto:stefan.kh.ehrlich@gmail.com)
 
-### Research Interests
+### Interests
 * Human-AI Interaction
+* Multimodal and Neuro-Symbolic AI 
 * (Patient) Digital Twinning
 * Synthetic Health Data
-* Multimodal and Agentic AI 
+
