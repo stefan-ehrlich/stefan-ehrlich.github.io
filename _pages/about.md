@@ -22,7 +22,7 @@ Previously, I was a Postdoctoral Research Fellow (11/2021-02/2023) and later Vis
 
 I completed my PhD (Dr.-Ing.) in Electrical and Computer Engineering at the [Technical University of Munich](https://www.ce.cit.tum.de/ics/home/) in 2020 on neuroadaptive human-robot interaction.
 
-I’m driven by deep curiosity and a genuine desire to create meaningful innovation. I always appreciate connecting with researchers and tech-enthusiasts who are working along similar lines.
+I’m driven by deep curiosity and a desire to create meaningful innovation. I always appreciate connecting with researchers and tech-enthusiasts who are working along similar lines.
 If any of this resonates with you, I’d be happy to [connect!](mailto:stefan.kh.ehrlich@gmail.com)
 
 ### Interests
