@@ -27,7 +27,8 @@ If any of this resonates with you, I’d be happy to [connect!](mailto:stefan.kh
 
 ### Interests
 * Human-AI Interaction
+* Human-Centered Robotics
 * Multimodal and Neuro-Symbolic AI 
-* (Patient) Digital Twinning
-* Synthetic Health Data
+* Virtualization & Digital Twinning
+
 
