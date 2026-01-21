@@ -16,9 +16,9 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-I am currently a research group leader at [SETLabs Research GmbH](https://www.setlabs.de/) in Munich focusing on applied research into AI for healthcare and human-centered robotics for clinical workflow automation (since 04/2023). 
+I am currently a research group leader at [SETLabs Research GmbH](https://www.setlabs.de/) in Munich focusing on applied research into AI for healthcare and human-centered robotics for clinical workflow automation (since 04/23). 
 
-Previously, I was a Postdoctoral Research Fellow (11/2021-02/2023) and later Visiting Scientist (since 03/2023) at [Harvard Medical School](https://simonyanlab.meei.harvard.edu/) in Boston, where I developed a brain-computer interface system for treatment of neurological voice disorders. 
+Previously, I was a Postdoctoral Research Fellow (11/21-02/23) and later Visiting Scientist (03/23-10/25) at [Harvard Medical School](https://simonyanlab.meei.harvard.edu/) in Boston, where I developed a brain-computer interface system for treatment of neurological voice disorders. 
 
 I completed my PhD (Dr.-Ing.) in Electrical and Computer Engineering at the [Technical University of Munich](https://www.ce.cit.tum.de/ics/home/) in 2020 on neuroadaptive human-robot interaction.
 
