@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /demo/
-title: Demos
+title: demos
 nav: true
 nav_order: 6
-description: Research demo application
+description: Redirecting to demos...
 ---
 
 <script>
