@@ -8,13 +8,13 @@ description: Redirecting to demos...
 ---
 
 <script>
-window.location.href = "https://25c384100c9666b39f.gradio.live";
+window.location.href = "https://bf6a5f7b311540e0fa.gradio.live/";
 </script>
 
 # Redirecting...
 
 If you are not redirected automatically, click below:
 
-<a href="https://25c384100c9666b39f.gradio.live">
+<a href="https://bf6a5f7b311540e0fa.gradio.live/">
 Launch Demo
 </a>
