@@ -6,8 +6,8 @@ subtitle: <a href='https://iopscience.iop.org/article/10.1088/1741-2552/aae069/m
 
 profile:
   align: right
-  image: stefan_ehrlich_3b_grey.jpg
-  image_circular: false # crops the image to make it circular
+  image: google_scholar.jpg
+  image_circular: true # crops the image to make it circular
 
 
 news: false  # includes a list of news items
@@ -22,8 +22,8 @@ Previously, I was a Postdoctoral Research Fellow (11/21-02/23) and later Visitin
 
 I completed my PhD (Dr.-Ing.) in Electrical and Computer Engineering at the [Technical University of Munich](https://www.ce.cit.tum.de/ics/home/) in 2020 on neuroadaptive human-robot interaction.
 
-I’m driven by deep curiosity and a desire to create meaningful innovation. I always appreciate connecting with researchers and tech-enthusiasts who are working along similar lines.
-If any of this resonates with you, I’d be happy to [connect!](mailto:stefan.kh.ehrlich@gmail.com)
+I am driven by deep curiosity and a desire to create meaningful innovation. I always appreciate connecting with researchers and tech-enthusiasts who are working along similar lines.
+If any of this resonates with you, I am happy to [connect!](mailto:stefan.kh.ehrlich@gmail.com)
 
 ### Interests
 * Human-AI Interaction
