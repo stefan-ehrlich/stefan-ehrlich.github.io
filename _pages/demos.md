@@ -2,7 +2,7 @@
 layout: page
 permalink: /demo/
 title: demos
-nav: true
+nav: false
 nav_order: 6
 description: Redirecting to demos...
 ---
