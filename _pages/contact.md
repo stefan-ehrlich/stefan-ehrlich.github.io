@@ -9,7 +9,7 @@ nav_order: 3
 
 Hochschule Heilbronn<br>
 Fakultät für Informatik<br>
-Prof. Dr.-Ing. Stefan Ehrlich
+Prof. Dr.-Ing. Stefan Ehrlich<br>
 E145 TechCampus<br>
 Max-Planck-Str. 39<br>
 74081 Heilbronn
