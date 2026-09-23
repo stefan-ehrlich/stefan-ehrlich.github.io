@@ -7,8 +7,9 @@ nav_order: 3
 
 ---
 
-Heilbronn University of Applied Science<br>
-Faculty of Computer Science<br>
+Hochschule Heilbronn<br>
+Fakultät für Informatik<br>
+Prof. Dr.-Ing. Stefan Ehrlich
 E145 TechCampus<br>
 Max-Planck-Str. 39<br>
 74081 Heilbronn
