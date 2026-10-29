@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='/assets/pdf/2025_SceneUnderstanding.pdf'>Human-Centered AI</a> | <a href='/assets/pdf/2018_coadaptation.pdf'>Robotics</a> |  | <a href='/assets/pdf/2025_LD-BCI.pdf'>Neurotechnologies & BCI</a> | <a href='/assets/pdf/2020_scienceRobotics.pdf'>Neuroengineering</a>
+subtitle: <a href='/assets/pdf/2025_SceneUnderstanding.pdf'>Human-Centered AI</a> | <a href='/assets/pdf/2018_coadaptation.pdf'>Robotics</a> | <a href='/assets/pdf/2025_LD-BCI.pdf'>Neurotechnologies & BCI</a> | <a href='/assets/pdf/2020_scienceRobotics.pdf'>Neuroengineering</a>
 
 profile:
   align: right
